@@ -1,0 +1,10 @@
+body, svg{
+	background: #EEEEEE;
+}
+
+.fmu{
+	fill: black;
+    font-family: "Trebuchet MS", ​Arial,​sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}

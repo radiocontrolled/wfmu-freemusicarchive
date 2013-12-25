@@ -1,0 +1,28 @@
+body, svg{
+	background: #EEEEEE;
+}
+
+body{
+	padding-top: 1em;
+}
+<<<<<<< HEAD
+=======
+
+>>>>>>> b2d610568bedf992e8cf59899e8f44693ffd7cfd
+.axis path,
+.axis line,
+.domain {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text, .domain {
+    font-size: 11px;
+}
+.axis{
+	fill: black;
+    font-family: "Trebuchet MS", ​Arial,​sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}

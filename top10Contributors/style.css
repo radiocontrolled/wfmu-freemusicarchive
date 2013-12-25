@@ -1,0 +1,20 @@
+body, svg{
+	background: #EEEEEE;
+	color:  #192037;
+}
+text{
+	fill: black;
+    font-family: "Trebuchet MS", ​Arial,​sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+article{
+	padding: 0 2em;	
+
+}
+svg{
+	margin: 0 auto;
+	display: block;
+	
+}
+
