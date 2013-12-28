@@ -1,0 +1,22 @@
+{
+ "name": "FMA \n Datasets",
+ "class":"title",
+ "children": [
+  {
+   "name": "Genres"
+  },
+  {
+   "name": "Curators"
+  },
+  {
+   "name": "Artists"
+  },
+  {
+   "name": "Albums"
+  },
+  {
+   "name": "Tracks"
+  }
+ ]
+}
+ 
